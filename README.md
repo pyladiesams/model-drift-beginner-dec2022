@@ -8,6 +8,7 @@ During this workshop you will learn how to:
 * measure your model performance
 * handle model drift
 * perform test-based model monitoring
+All of this with the help of [evidently](https://github.com/evidentlyai/evidently)
 
 ## Requirements
 Do not forget to indicate Python version and any other tools
