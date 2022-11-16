@@ -20,7 +20,7 @@ Do not forget to indicate Python version and any other tools
 * Start { TOOL } and navigate to the workshop folder
 
 ## Video record
-Re-watch YouTube stream [here](https://youtu.be/gyvB44gQWQE))
+Re-watch YouTube stream [here](https://youtu.be/gyvB44gQWQE)
 
 ## Credits
 This workshop was set up by @pyladiesams and @EzheZhezhe
