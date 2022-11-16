@@ -1,10 +1,13 @@
 
-# An introduction to { YOUR TOPIC } or A deep dive into { YOUR TOPIC }
-### Level: Beginner or Advanced
+# An introduction to model drift
+### Level: Beginner
 ### Presentation: [Presentation_name](workshop/Presentation_template.pptx)
 
 ## Workshop description
-Describe why your topic is important and what you want to share with your audience
+During this workshop you will learn how to:
+* measure your model performance
+* handle model drift
+* perform test-based model monitoring
 
 ## Requirements
 Do not forget to indicate Python version and any other tools
@@ -18,4 +21,4 @@ Do not forget to indicate Python version and any other tools
 Re-watch YouTube stream [here](link)
 
 ## Credits
-This workshop was set up by @pyladiesams and {your github handler}
+This workshop was set up by @pyladiesams and @EzheZhezhe
