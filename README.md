@@ -1,7 +1,7 @@
 
 # An introduction to model drift
 ### Level: Beginner
-### Presentation: [Presentation_name](workshop/Presentation_template.pptx)
+### Presentation: [Presentation_name](/workshop/Presentation_template.pptx)
 
 ## Workshop description
 During this workshop you will learn how to:
