@@ -29,10 +29,10 @@ nbextension)
 
 Note for Windows users:
 
-Unfortunately, building reports inside a Jupyter notebook is not yet possible for Windows. The reason is Windows requires administrator privileges to create symlink. In later versions Evidently will address this issue. You can still generate the HTML to view externally.
+Unfortunately, building reports inside a Jupyter notebook is not yet possible for Windows. The reason is that Windows requires administrator privileges to create symlink. In later versions Evidently will address this issue. You can still generate the HTML to view externally.
 
 ## Video record
 Re-watch YouTube stream [here](https://youtu.be/gyvB44gQWQE)
 
 ## Credits
-This workshop was set up by @pyladiesams and @EzheZhezhe
+This workshop was set up by @pyladiesams and @una-gal
